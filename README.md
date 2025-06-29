@@ -1,4 +1,4 @@
-```markdown
+
 # 🏠 Verified.RealEstate – Real Estate Platform
 
 A modern, fully responsive, and feature-rich real estate web application built using React, TypeScript, Tailwind CSS, and Vite. This platform lets users search verified listings, view agent profiles, and explore properties with ease and confidence.
