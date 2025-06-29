@@ -20,19 +20,22 @@ A modern, fully responsive, and feature-rich real estate web application built u
 
 ### 🛡 Why Choose Verified.RealEstate?
 
-![Why Choose Us](./assets/4ebd5921-c2a8-492d-a947-5be6b3c604a0.png)
+![Why Choose Us](![image](https://github.com/user-attachments/assets/0331e94a-a5de-4ba3-b7cc-f9bfe8ff4eb9)
+
 
 ---
 
 ### 🏘 Featured Verified Properties
 
-![Property Listings](./assets/504641bc-8b1a-4cd5-a303-acf6c71b16ae.png)
+![Property Listings](.![image](https://github.com/user-attachments/assets/4a1f773e-5b27-4536-ab41-8cd3ddf6e691)
+
 
 ---
 
 ### 👩‍💼 Meet Our Certified Agents
 
-![Agent Cards](./assets/2dc879d7-6d1b-4ccd-a692-7009ca487b11.png)
+![Agent Cards](.![image](https://github.com/user-attachments/assets/45fc6a57-ecec-4045-bdaa-d1302d1ce6a1)
+
 
 ---
 
